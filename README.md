@@ -8,5 +8,9 @@ Step 3: Create a New Job in Jenkins
 
 Step 4: Source Code Management in Jenkins
 
-Step 5: Build Triggers in Jenkins by configuring a webhook in GitHub
+Step 5: Build Triggers in Jenkins by configuring SCM polling in Jenkins (RS)
+
+Step 6: Configure Jenkins with Docker
+
+
 

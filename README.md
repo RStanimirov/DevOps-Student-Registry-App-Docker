@@ -11,6 +11,9 @@ Step 4: Source Code Management in Jenkins
 Step 5: Build Triggers in Jenkins by configuring SCM polling in Jenkins (RS)
 
 Step 6: Configure Jenkins with Docker
+ - generate Docker token, register it in Jenkins crededentials and add it as a secret env variable in the project settings
+
+ - configure docker build, login adn push command in the Jenkins projects Build steps
 
 
 

@@ -20,4 +20,7 @@ Step 7: Configure a CD pipeline with docker compose yaml file.
 
 Step 8: Configure a pipeline job with Jenkinsfile
 
+NOTE: In order for Jenkins to successfully access your DockerHub account, you should create a DockerHub access token and use it for the script.
+NOTE: Ensure that the Jenkins server has Docker installed and that the Docker daemon is running.
+NOTE: The Jenkins user must have the necessary permissions to execute Docker commands.
 
